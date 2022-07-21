@@ -1,6 +1,6 @@
 # Quantoras
 I am not in the position to share any code, but the publicly available parts of this application can be accessed at [quantoras.com](https://quantoras.com).
-I was responsible for re-designing the application and improve the UX.
+I was responsible for re-designing the application and improve the UX during an internship.
 
 ## Start page
 
